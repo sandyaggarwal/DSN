@@ -1,5 +1,7 @@
 # Introduction
 
+# BLURB
+
 [Slate](http://slatejs.org) is a _completely_ customizable framework for building rich text editors. Testing again.
 
 Slate lets you build rich, intuitive editors like those in [Medium](https://medium.com/), [Dropbox Paper](https://www.dropbox.com/paper) or [Google Docs](https://www.google.com/docs/about/)—which are becoming table stakes for applications on the web—without your codebase getting mired in complexity.
