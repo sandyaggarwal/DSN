@@ -1,4 +1,4 @@
-# Introduction to Slate
+# Introduction to Slate!
 
 # Slate
 
