@@ -1,6 +1,6 @@
 # Introduction to Slate!
 
-# Slate
+# Slate Test
 
 [Slate](http://slatejs.org) is a _completely_ customizable framework for building rich text editors. Testing again.
 
