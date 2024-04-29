@@ -2,7 +2,9 @@
 
 In the previous guide we learned how to create custom block types that render chunks of text inside different containers. But Slate allows for more than just "blocks".
 
-In this guide, we'll show you how to add custom formatting options, like **bold**, _italic_, `code` or ~~strikethrough~~.
+QWEQWRQWR QRQW RQWR RQW&#x20;
+
+In this guide, we'll show you how to add custom formatting options, like **bold**, *italic*, `code` or ~~strikethrough~~.
 
 So we start with our app from earlier:
 
