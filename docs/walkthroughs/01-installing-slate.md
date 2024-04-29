@@ -1,4 +1,4 @@
-# Installing Slate
+# Installing Slate from Archbee
 
 Slate is a monorepo divided up into multiple npm packages, so to install it you do:
 
@@ -12,7 +12,7 @@ You'll also need to be sure to install Slate's peer dependencies:
 yarn add react react-dom
 ```
 
-_Note, if you'd rather use a pre-bundled version of Slate, you can `yarn add slate` and retrieve the bundled `dist/slate.js` file! Check out the_ [_Using the Bundled Source_](xx-using-the-bundled-source.md) _guide for more information._
+*Note, if you'd rather use a pre-bundled version of Slate, you can  and retrieve the bundled  file! Check out the* [*Using the Bundled Source*](xx-using-the-bundled-source.md) *guide for more information.*
 
 Once you've installed Slate, you'll need to import it.
 
