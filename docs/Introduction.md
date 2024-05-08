@@ -1,6 +1,6 @@
 # Introduction to Slate!
 
-# Slate Test from Archbee!!! BOOM
+# Slate Test from Archbee!!! xa
 
 [Slate](http://slatejs.org) is a *completely* customizable framework for building rich text editors. Testing again.
 
