@@ -1,4 +1,4 @@
-# Introduction to Slate!
+# Introduction to DSN!
 
 # Slate Test from Archbee!!! EDIT BY DRAGOS
 
